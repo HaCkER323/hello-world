@@ -1,0 +1,36 @@
+body {
+	background-color: #fff
+}
+#psp {
+	background-color:#ff0000;
+	text-align: center;
+	border: 4px solid #086FA1;
+	margin-top: 30px;
+}
+#Copyright {
+	text-align: center;
+	border: 2px solid #000;
+	margin-left: 400px;
+	margin-right: 400px;
+	font-size: 25px
+}
+#надапись {
+	text-align: center;
+
+}
+#дол {
+	text-align: center;
+	border: 5px solid #000
+}
+#po {
+	text-align: center;
+	border: 5px solid #200772;
+	font-size: 20px;
+}
+ #Copyright1 {
+	text-align: center;
+	border: 4px solid #000;
+	margin-left: 400px;
+	margin-right: 400px;
+	font-size: 25px
+}
